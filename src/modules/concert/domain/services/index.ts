@@ -1,0 +1,1 @@
+export { ConcertQueryService } from './concert.query.service';
