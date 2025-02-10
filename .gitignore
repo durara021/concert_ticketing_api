@@ -1,0 +1,10 @@
+node_modules/
+.pnpm-store/
+.pnp/
+.pnp.cjs
+.pnp.loader.mjs
+.pnpm/
+.pnpm-debug.log
+
+# `pnpm-lock.yaml`은 Git에 포함
+pnpm-lock.yaml
